@@ -7,6 +7,7 @@ namespace Activity1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello! My name is Duncan.");
+            Console.WriteLine("However, just call me Dan.");
         }
     }
 }
